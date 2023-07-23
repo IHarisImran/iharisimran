@@ -10,8 +10,9 @@ This repository contains Muhammed Haris complete source code. To work on this pr
 * **npm i -g yarn**  (Install yarn globally if not installed)
 * **yarn**           (Install required packages)
 * **yarn dev**       (Start development server)
-* **yarn build**     (Build project)
-* **yarn start**     (Start code at production mode)
+* **yarn export**    (Export as SSG)
+* **yarn start**     (Start exported code at production mode)
+* **yarn deploy**    (Deploy to Firebase)
 
 ## Core Technologies
 
