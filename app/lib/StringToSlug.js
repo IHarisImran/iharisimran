@@ -1,1 +1,0 @@
-export default function StringToSlug(string) { return string.toLowerCase().replace(/[\s,'’“”;:."|]+/g, '-'); };
