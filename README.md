@@ -1,11 +1,14 @@
 <div align="center">
     <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
     <h1>Hi 👋, I'm Muhammed Haris</h1>
-    <h3>An enthusiastic front-end developer from Pakistan!</h3>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iharisimran" alt="iharisimran" /></a>
+    <p>I love to create paths to cross the troubles that everybody faces like me in their professional life. Prospecting into problems and solving them with my skillset is the only thing I love to do.</p>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iharisimran&" alt="iharisimran" />
+    <br><br>
+    <hr>
     <h2>Connect with me:</h3>
     <span>
-        <a href="https://codepen.io/i-harisimran" target="blank">
+        <a href="https://codepen.io/I-HarisImran" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="i-harisimran" height="30" width="45" />
         </a>
         <a href="https://twitter.com/iharisimran" target="blank">
@@ -17,7 +20,7 @@
         <a href="https://stackoverflow.com/users/20951602" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20951602" height="30" width="45" />
         </a>
-        <a href="https://fb.com/iharisimran" target="blank">
+        <a href="https://www.facebook.com/iharisimran" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iharisimran" height="30" width="45" />
         </a>
         <a href="https://instagram.com/iharisimran" target="blank">
@@ -29,10 +32,6 @@
     <div>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-        </a>
-        &nbsp;
-        <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-            <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -74,11 +73,7 @@
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
         </a>
     </div>
-    <br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iharisimran&show_icons=true&locale=en&layout=compact" alt="iharisimran" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iharisimran&" alt="iharisimran" />
+    <hr>
     <br>
     <br>
     <br>
