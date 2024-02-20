@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+    <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" style="border-radius: 50px;" />
     <h1>Hi 👋, I'm Muhammed Haris</h1>
     <p>I love to create paths to cross the troubles that everybody faces like me in their professional life. Prospecting into problems and solving them with my skillset is the only thing I love to do.</p>
     <br>
@@ -72,9 +72,24 @@
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
         </a>
+        &nbsp;
+        <a href="https://nodejs.org/docs/v0.10.2/logos/" target="_blank" rel="noreferrer">
+            <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="tailwind" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="tailwind" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png" alt="tailwind" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://openai.com/" target="_blank" rel="noreferrer">
+            <img src="https://static.vecteezy.com/system/resources/previews/024/558/798/original/openai-chatgpt-logo-icon-free-png.png" alt="tailwind" width="40" height="40"/>
+        </a>
     </div>
     <hr>
-    <br>
     <br>
     <br>
     <p>
