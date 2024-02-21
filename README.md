@@ -93,6 +93,6 @@
     <br>
     <br>
     <p>
-        <b>⚡Fun fact about me: "I speak fluent JavaScript!" 😄</b>
+        <b>⚡Fun fact about me: "I speak JavaScript fluently!" 😄</b>
     </p>
 </div>
