@@ -28,7 +28,7 @@
         </a>
     </span>
     <br><br>
-    <h2>Languages and Tools:</h2>
+    <h2>Languages and Tools I use:</h2>
     <div style="max-width: 600px;">
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" loading="lazy" />
@@ -40,6 +40,14 @@
         &nbsp;
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" loading="lazy" />
+        </a>
+        &nbsp;
+        <a href="https://openai.com/" target="_blank" rel="noreferrer" title="Open AI">
+            <img src="https://ai.ls/assets/openai-logos/PNGs/openai-white-lockup.png" alt="open ai" width="140" height="35" loading="lazy" />
+        </a>
+        &nbsp;
+        <a href="https://gemini.google.com/" target="_blank" rel="noreferrer" title="Google Gemini">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Google Gemini" width="100" height="30" loading="lazy" style="margin-bottom: 10px;" />
         </a>
         &nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
@@ -75,10 +83,6 @@
         &nbsp;
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
             <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png" alt="mongodb" width="40" height="40" loading="lazy" />
-        </a>
-        &nbsp;
-        <a href="https://openai.com/" target="_blank" rel="noreferrer" title="Open AI">
-            <img src="https://static.vecteezy.com/system/resources/previews/024/558/798/original/openai-chatgpt-logo-icon-free-png.png" alt="open ai" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://strapi.io/" target="_blank" rel="noreferrer" title="Strapi CMS">
