@@ -43,11 +43,11 @@
         </a>
         &nbsp;
         <a href="https://openai.com/" target="_blank" rel="noreferrer" title="Open AI">
-            <img src="https://ai.ls/assets/openai-logos/PNGs/openai-white-lockup.png" alt="open ai" width="140" height="35" loading="lazy" />
+            <img src="https://freepnglogo.com/images/all_img/1724867280chatgpt-logo-white-transparent.png" alt="open ai" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://gemini.google.com/" target="_blank" rel="noreferrer" title="Google Gemini">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Google Gemini" width="100" height="30" loading="lazy" style="margin-bottom: 10px;" />
+            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Google Gemini" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
