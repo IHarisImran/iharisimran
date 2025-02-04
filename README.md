@@ -89,6 +89,10 @@
             <img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" alt="strapi cms" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
+        <a href="https://wordpress.org/" target="_blank" rel="noreferrer" title="WordPress">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="wordpress" width="40" height="40" loading="lazy" />
+        </a>
+        &nbsp;
         <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel">
             <img src="https://cdn.sanity.io/images/34ent8ly/production/223a29eb0698fb7fbc6d158a6f7e698d155e025f-824x824.png" alt="vercel" width="40" height="40" loading="lazy" />
         </a>
