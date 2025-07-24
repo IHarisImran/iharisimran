@@ -30,6 +30,10 @@
     <br><br>
     <h2>Languages and Tools I use:</h2>
     <div style="max-width: 600px;">
+        <a href="https://supabase.com/" target="_blank" rel="noreferrer" title="Supabase">
+            <img src="https://img.icons8.com/color/512/supabase.png" alt="supabase" width="40" height="40" loading="lazy" />
+        </a>
+        &nbsp;
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" loading="lazy" />
         </a>
@@ -53,7 +57,7 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" loading="lazy" />
         </a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.JS" style="margin-left: 6px;">
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next JS" style="margin-left: 6px;">
             <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="nextjs" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
@@ -61,11 +65,11 @@
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React.JS">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React JS">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux.JS">
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux JS">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
@@ -73,11 +77,11 @@
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
-        <a href="https://nodejs.org/docs/v0.10.2/logos/" target="_blank" rel="noreferrer" title="Node.JS">
-            <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="nodejs" width="40" height="40" loading="lazy" />
+        <a href="https://nodejs.org/docs/v0.10.2/logos/" target="_blank" rel="noreferrer" title="Node JS">
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp" alt="nodejs" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express.JS">
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express JS">
             <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="expressjs" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
