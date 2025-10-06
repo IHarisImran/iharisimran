@@ -45,15 +45,6 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" loading="lazy" />
         </a>
-        &nbsp;
-        <a href="https://openai.com/" target="_blank" rel="noreferrer" title="Open AI">
-            <img src="https://freepnglogo.com/images/all_img/1724867280chatgpt-logo-white-transparent.png" alt="open ai" width="40" height="40" loading="lazy" />
-        </a>
-        &nbsp;
-        <a href="https://gemini.google.com/" target="_blank" rel="noreferrer" title="Google Gemini">
-            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Google Gemini" width="40" height="40" loading="lazy" />
-        </a>
-        &nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" loading="lazy" />
         </a>
@@ -82,7 +73,7 @@
         </a>
         &nbsp;
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express JS">
-            <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="expressjs" width="40" height="40" loading="lazy" />
+            <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="expressjs" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
@@ -95,6 +86,10 @@
         &nbsp;
         <a href="https://wordpress.org/" target="_blank" rel="noreferrer" title="WordPress">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="wordpress" width="40" height="40" loading="lazy" />
+        </a>
+        &nbsp;
+        <a href="https://elementor.com/" target="_blank" rel="noreferrer" title="Elementor Page Builder">
+            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968699.png" alt="elementor" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel">
@@ -121,6 +116,21 @@
             <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" height="40" loading="lazy" />
         </a>
     </div>
+    <br><br>
+    <h2>Implemented AI Models in Production:</h2>
+    <div style="max-width: 600px;">
+        <a href="https://claude.ai/" target="_blank" rel="noreferrer" title="Claude AI">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/2048px-Claude_AI_symbol.svg.png" alt="claude ai" width="40" height="40" loading="lazy" />
+        </a>
+        &nbsp;
+        <a href="https://openai.com/" target="_blank" rel="noreferrer" title="Open AI">
+            <img src="https://freepnglogo.com/images/all_img/1724867280chatgpt-logo-white-transparent.png" alt="open ai" width="40" height="40" loading="lazy" />
+        </a>
+        &nbsp;
+        <a href="https://gemini.google.com/" target="_blank" rel="noreferrer" title="Google Gemini">
+            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Google Gemini" width="40" height="40" loading="lazy" />
+        </a>
+    </div>    
     <hr>
     <br>
     <br>
