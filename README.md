@@ -9,22 +9,23 @@
     <h2>Connect with me:</h3>
     <span>
         <a href="https://codepen.io/I-HarisImran" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="i-harisimran" height="30" width="45" loading="lazy" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="45" loading="lazy" />
         </a>
-        <a href="https://twitter.com/iharisimran" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iharisimran" height="30" width="45" loading="lazy" />
+        <a href="https://x.com/iharisimran" target="blank">
+            <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740&q=80" alt="X" height="32" width="32" loading="lazy" />
         </a>
+        &nbsp;
         <a href="https://linkedin.com/in/iharisimran" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iharisimran" height="45" width="30" loading="lazy" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="30" loading="lazy" />
         </a>
         <a href="https://stackoverflow.com/users/20951602" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20951602" height="30" width="45" loading="lazy" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="45" loading="lazy" />
         </a>
         <a href="https://www.facebook.com/iharisimran" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iharisimran" height="30" width="45" loading="lazy" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="45" loading="lazy" />
         </a>
         <a href="https://instagram.com/iharisimran" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iharisimran" height="30" width="45" loading="lazy" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="45" loading="lazy" />
         </a>
     </span>
     <br><br>
@@ -45,6 +46,11 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" loading="lazy" />
         </a>
+        &nbsp;
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" loading="lazy" />
+        </a>
+        &nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" loading="lazy" />
         </a>
@@ -97,7 +103,7 @@
         </a>
         &nbsp;
         <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer" title="CloudFlare">
-            <img src="https://cdn.iconscout.com/icon/free/png-256/free-cloudflare-3521343-2944787.png" alt="cloudflare" width="40" height="40" loading="lazy" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="cloudflare" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://cloudinary.com/" target="_blank" rel="noreferrer" title="Cloudinary">
