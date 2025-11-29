@@ -122,7 +122,7 @@
             <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" height="40" loading="lazy" />
         </a>
     </div>
-    <br><br>
+    <br>
     <h2>Implemented AI Models in Production:</h2>
     <div style="max-width: 600px;">
         <a href="https://claude.ai/" target="_blank" rel="noreferrer" title="Claude AI">
@@ -138,9 +138,12 @@
         </a>
     </div>    
     <hr>
+    <h2>⭐ Client Reviews</h2>
+    <p>See what my clients have to say about working with me:</p>
+    <a href="https://iharisimran.netlify.app/#video-reviews" target="_blank" 
+    style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Watch Video Reviews</a>
     <br>
+    <hr>
     <br>
-    <p>
-        <b>⚡Fun fact about me: "I speak JavaScript fluently!" 😄</b>
-    </p>
+    <p><b>⚡Fun fact about me: "I speak JavaScript fluently!" 😄</b></p>
 </div>
