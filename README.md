@@ -48,7 +48,7 @@
         </a>
         &nbsp;
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" loading="lazy" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
@@ -79,7 +79,7 @@
         </a>
         &nbsp;
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express JS">
-            <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="expressjs" width="40" height="40" loading="lazy" />
+            <img src="https://img.icons8.com/color/1200/express-js.jpg" alt="expressjs" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
@@ -103,7 +103,7 @@
         </a>
         &nbsp;
         <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer" title="CloudFlare">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="cloudflare" width="40" height="40" loading="lazy" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png" alt="cloudflare" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://cloudinary.com/" target="_blank" rel="noreferrer" title="Cloudinary">
@@ -121,12 +121,20 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS">
             <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" height="40" loading="lazy" />
         </a>
+        &nbsp;
+        <a href="https://cursor.com" target="_blank" rel="noreferrer" title="Cursor AI">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="cursorai" height="40" loading="lazy" />
+        </a>
+        &nbsp;
+        <a href="https://lovable.dev" target="_blank" rel="noreferrer" title="Lovable AI">
+            <img src="https://images.g2crowd.com/uploads/product/image/03c1f82cebedaa47c37976d727ab34f6/lovable.png" alt="lovableai" height="40" loading="lazy" />
+        </a>
     </div>
     <br>
     <h2>Implemented AI Models in Production:</h2>
     <div style="max-width: 600px;">
         <a href="https://claude.ai/" target="_blank" rel="noreferrer" title="Claude AI">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/2048px-Claude_AI_symbol.svg.png" alt="claude ai" width="40" height="40" loading="lazy" />
+            <img src="https://cdn.prod.website-files.com/69d3c30ea3d4563114a4953b/69f32fbe52fcbe8365f36f8f_claude-color.png" alt="claude ai" width="40" height="40" loading="lazy" />
         </a>
         &nbsp;
         <a href="https://openai.com/" target="_blank" rel="noreferrer" title="Open AI">
